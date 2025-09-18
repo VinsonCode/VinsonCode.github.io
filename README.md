@@ -1,2 +1,8 @@
-# VinsonCode.github.io
-First Public Repository I guess.
+<html>
+  <head>
+    <title>first page</title>
+  </head>
+  <body>
+    <h1>This is my public repository.</h1>
+  </body>
+</html>
